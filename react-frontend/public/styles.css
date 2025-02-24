@@ -1,0 +1,152 @@
+@media (max-width: 599px) {
+    .toggle {
+        position: relative;
+        top: -60px;
+    }
+
+    .first-header {
+        height: 250px;
+    }
+
+    .logo {
+        position: relative;
+        top: 30px;
+    }
+
+    .bringDown {
+        position: absolute;
+        top: 50px;
+    }
+
+    .sScreen {
+        margin-left: 60px;
+        margin-right: 30px;
+    }
+
+    .typewriter {
+        margin-top: 40px;
+    }
+
+    .ssss {
+        display: block;
+        margin: auto auto;
+    }
+
+    .sssss {
+        display: block;
+        margin: 20px 20px 20px;
+    }
+
+    .fCard {
+        display: block;
+        margin-right: 20px;
+    }
+
+    .sCard {
+        display: block;
+        width: 300px;
+        margin: auto;
+        margin-top: -90px;
+        height: 400px;
+    }
+
+    .sSection {
+        padding-bottom: 10px;
+
+    }
+
+}
+
+.aboutImage {
+    shape-outside: circle(50%);
+    shape-margin: 3rem;
+}
+
+.imageDiv {
+    float: left;
+    padding-right: 5px;
+}
+
+.imageDiv_2 {
+    float: left;
+    padding-right: 5px;
+}
+
+@media (min-width: 768px) {
+
+    .servicePara {
+        padding-right: 7rem;
+        padding-top: 2px;
+    }
+
+    .servicePara2 {
+        /* padding-right: 7rem; */
+        padding-top: 20px;
+    }
+}
+
+@media (min-width: 639px) {
+    .marginMargin {
+        margin-left: 50%;
+    }
+}
+
+.card_1 {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+.card_2 {
+    padding-top: 5px;
+    padding-left: 20px;
+}
+
+footer a {
+    color: slategray;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+@media(max-width: 480px) {
+    .newsletter {
+        margin-bottom: 15px;
+    }
+
+    .newsletter-input {
+        width: 200px;
+    }
+}
+
+@media (min-width: 450px) {
+    .smallScreenMargin {
+        margin-left: 20%;
+    }
+}
+@media (min-width: 770px) {
+    .tabScreenMargin {
+        margin-left: 25%;
+    }
+}
+@media (min-width: 1024px) {
+    .fullScreenMargin {
+        margin-left: 35%;
+    }
+}
+
+
+@media (max-width: 450px) {
+    .topPosition {
+        bottom: -95px;
+        left: 230px;
+    }
+}
+@media (max-width: 450px) {
+    .buttonPosition {
+        right: 100px;
+        top: 540px;
+    }
+}
